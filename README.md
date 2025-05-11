@@ -3,7 +3,7 @@ The project aims to extract insights from 50k records of the Xmas Gift dataset a
 
 This Xmas Gift Analysis aims to analyse the Christmas sales and gives recommendations on marketing strategies.
 
-[Interactive dashboard link] (https://app.fabric.microsoft.com/view?r=eyJrIjoiMGVmY2E1OTQtODhjYy00ZTZjLThmNDQtN2EwMWRlMzg3NzM0IiwidCI6Ijg0NTZjNDAxLTU2MDEtNDUyOS1hNDQ2LWVmZDNkZTMyNmMyMCJ9)
+[Interactive dashboard link](https://app.fabric.microsoft.com/view?r=eyJrIjoiMGVmY2E1OTQtODhjYy00ZTZjLThmNDQtN2EwMWRlMzg3NzM0IiwidCI6Ijg0NTZjNDAxLTU2MDEtNDUyOS1hNDQ2LWVmZDNkZTMyNmMyMCJ9)
 
 # Insights Deep-Dive 
 
